@@ -64,5 +64,8 @@ Technique used to prevent overfitting by adding a penalty term to the loss funct
 Logistic Regression
 --
 
-Statistical method used for binary classification problems modelling the probability of a particular class
+Statistical method used for binary classification problems modelling the probability of a particular class, a supervised machine learning algorithm widely used for identifying whether an email is spam or not and diagnosing diseases by assessing the presence or absence of specific conditions based on patient test results.
+
+<img src="https://github.com/user-attachments/assets/da5ff503-4f7c-48e5-9322-c0db27f13f0e" alt="image" width="600"/>
+
 
